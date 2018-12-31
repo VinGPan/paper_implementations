@@ -10,4 +10,8 @@ This is a 34-layer deep network to classify single channel ECG data into 14 clas
 
 Architecture-wise, this is a 1D residual network with 16 residual blocks.
 
+Code tested with:
+Keras 2.2.0, Tensorflow 1.8.0, Ubuntu 16.04, Python 3.5
+
+
 
