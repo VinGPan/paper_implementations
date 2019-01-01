@@ -5,6 +5,7 @@ Implementation of interesting research papers
 
     Implementation of "Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks", 2017, by
     Pranav Rajpurkar, Awni Y. Hannun, Masoumeh Haghpanahi, Codie Bourn, Andrew Y. Ng
+    
     Paper Link: https://arxiv.org/pdf/1707.01836.pdf
 
     This is a 34-layer deep network to classify single channel ECG data into 14 classes. 12 of these classes represent    
@@ -20,6 +21,7 @@ Implementation of interesting research papers
    
    Implementation of "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning", 2017, by
    Pranav Rajpurkar, ..., Andrew Y. Ng
+   
    Paper Link: https://arxiv.org/pdf/1711.05225.pdf
    
    This is a DenseNet121 (121-layer deep network) to classify chest-xrays into 14 lung abnormalities.
